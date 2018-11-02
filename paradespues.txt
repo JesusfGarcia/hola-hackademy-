@@ -1,1 +1,1 @@
-aqui  dice algo equis
+agregando un texto mejorado para ver el comando commit sin utilizar parametro -m
